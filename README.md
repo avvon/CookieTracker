@@ -40,4 +40,4 @@ when you run the pixelcheck.py file it will constantly show the pixel coordinate
 you want to take the coordinates on the top left of the cookie display, while being above the unit<br>
 if this doesn't work just play around with it for a little and eventually it will work<br><br>
 
-side note: everything should be run through windows cmd unless you have a different way you would like to run them
+side note: on windows everything should be run through windows cmd unless you have a different way you would like to run them
