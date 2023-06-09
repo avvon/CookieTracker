@@ -1,5 +1,5 @@
 # CookieTracker
-made in like an hour so probably shit <br>
+made in like an hour so probably bad <br>
 since im not very good at explaining, if you need help contact me on discord (Cow#7086) <br><br>
 
 Steps to get CookieTracker up and running!<br><br>
