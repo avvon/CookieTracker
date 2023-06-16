@@ -39,5 +39,3 @@ the way you can figure out the x and y coordinates is by using pixelcheck.py whi
 when you run the pixelcheck.py file it will constantly show the pixel coordinates of where your cursor is placed on the screen<br>
 you want to take the coordinates on the top left of the cookie display, while being above the unit<br>
 if this doesn't work just play around with it for a little and eventually it will work<br><br>
-
-side note: on windows everything should be run through windows cmd unless you have a different way you would like to run them
